@@ -7,3 +7,7 @@ tensorflow
 flask
 requests
 beautifulsoup4
+catboost
+xgboost
+
+## -e .

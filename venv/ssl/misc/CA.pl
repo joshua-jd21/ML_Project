@@ -1,4 +1,4 @@
-#!/Users/ec2-user/croot/openssl_1769778945092/_build_env/bin/perl
+#!/usr/bin/env perl
 # Copyright 2000-2025 The OpenSSL Project Authors. All Rights Reserved.
 #
 # Licensed under the Apache License 2.0 (the "License").  You may not use
